@@ -28,7 +28,7 @@ Since OSX comes pre-installed with Python and people using Linux distros already
 1. To begin installation in a vanilla way, you can download the respective installer from [Download Python | Python.org](https://www.python.org/downloads/)
 2. Run the installer
 
-<img src="Lecture%20Notes%2006f7e20d1f064197ad83d6ed5d75fc11/Untitled.png" width="500"/>
+<img src="./images/Untitled.png" width="500"/>
 
 Remember the path being mentioned here.
 
@@ -48,15 +48,15 @@ To do so:
 
 2. Search for "environment variables" and open "Edit the system environment variables"
 
-<img src="Lecture%20Notes%2006f7e20d1f064197ad83d6ed5d75fc11/Untitled%201.png" width="500"/>
+<img src="./images/Untitled%201.png" width="500"/>
 
 3. Click the environment variables button:
 
-<img src="Lecture%20Notes%2006f7e20d1f064197ad83d6ed5d75fc11/Untitled%202.png" width="500"/>
+<img src="./images/Untitled%202.png" width="500"/>
 
 4. In the bottom dialog(system variables), click on the variable with name PATH and click edit
 
-<img src="Lecture%20Notes%2006f7e20d1f064197ad83d6ed5d75fc11/Untitled%203.png" width="500"/>
+<img src="./images/Untitled%203.png" width="500"/>
 
 5. Click on new button and paste in the following
 
@@ -66,7 +66,7 @@ To do so:
 C:\Users\Tarun\AppData\Local\Programs\Python\Python39
 ```
 
-<img src="Lecture%20Notes%2006f7e20d1f064197ad83d6ed5d75fc11/Untitled%204.png" width="500"/>
+<img src="./images/Untitled%204.png" width="500"/>
 
 2. Same path as above with the addition of **\Scripts** at the end.
 
@@ -74,7 +74,7 @@ C:\Users\Tarun\AppData\Local\Programs\Python\Python39
 C:\Users\Tarun\AppData\Local\Programs\Python\Python39\Scripts
 ```
 
-<img src="Lecture%20Notes%2006f7e20d1f064197ad83d6ed5d75fc11/Untitled%205.png" width="500"/>
+<img src="./images/Untitled%205.png" width="500"/>
 
 6. Voila, you can now run Python in your system. To verify that you've done everything correctly just open a command prompt window or PowerShell window and just type in:
 
@@ -84,7 +84,7 @@ python --version
 
 You shall get a response similar to this,
 
-<img src="Lecture%20Notes%2006f7e20d1f064197ad83d6ed5d75fc11/Untitled%206.png" width="500"/>
+<img src="./images/Untitled%206.png" width="500"/>
 
 if you don't, make sure you've followed the steps correctly, alternatively you can watch the video for today's lecture.
 
@@ -104,7 +104,7 @@ pip --version
 
 Output:
 
-<img src="Lecture%20Notes%2006f7e20d1f064197ad83d6ed5d75fc11/Untitled%207.png" width="500"/>
+<img src="./images/Untitled%207.png" width="500"/>
 
 To install any package with pip, you just do:
 
@@ -128,7 +128,7 @@ Now to run Python code, we have three options.
 
 Simply open a command prompt or terminal window and type in `python` and you'll enter an interactive shell:
 
-<img src="Lecture%20Notes%2006f7e20d1f064197ad83d6ed5d75fc11/Untitled%208.png" width="500"/>
+<img src="./images/Untitled%208.png" width="500"/>
 
 This can act as a workbench for you to test your code logic before writing it into a script. For example slicing a string, playing with custom formulas etcetera.
 
@@ -156,11 +156,11 @@ This'll launch a [localhost](http://localhost) server and you can view it at [ht
 
 Now just create a new file:
 
-<img src="Lecture%20Notes%2006f7e20d1f064197ad83d6ed5d75fc11/Untitled%209.png" width="500"/>
+<img src="./images/Untitled%209.png" width="500"/>
 
 You can start writing code in individual cells and execute by pressing `shift + enter`
 
-<img src="Lecture%20Notes%2006f7e20d1f064197ad83d6ed5d75fc11/Untitled%2010.png" width="500"/>
+<img src="./images/Untitled%2010.png" width="500"/>
 
 The new file you just created will have the extension `.ipynb` which signifies that the file is an Interactive Python Notebook.
 
@@ -172,7 +172,7 @@ Take a look at this notebook to see the possibilities:
 
 If you face the following issue after running `jupyter notebook` on your Windows system:
 
-<img src="Lecture%20Notes%2006f7e20d1f064197ad83d6ed5d75fc11/Untitled%2011.png" width="500"/>
+<img src="./images/Untitled%2011.png" width="500"/>
 
 You can fix it by installing the Visual C++ redistributable files from [here](https://support.microsoft.com/en-us/help/2977003/the-latest-supported-visual-c-downloads)
 
