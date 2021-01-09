@@ -4,6 +4,8 @@ Go to our [Youtube](https://www.youtube.com/channel/UCAwDze2ADlOY-Tf6a6XgkTw) ch
 
 Join us on [Discord](https://discord.gg/XMdJtVJd).
 
+Join [DSC-NEDUET](https://dsc.community.dev/ned-university-of-engineering-and-technology-karachi/)
+
 #### All Slides are accessible in below link
 
 Go to: [Slides](https://drive.google.com/drive/u/4/folders/1stgIAbsplLOZKIJ58eGWiS8rx_yQVvz8).
