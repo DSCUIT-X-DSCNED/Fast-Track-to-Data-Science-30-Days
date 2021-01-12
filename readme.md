@@ -15,3 +15,4 @@ Go to: [Slides](https://drive.google.com/drive/u/4/folders/1stgIAbsplLOZKIJ58eGW
 
 #### Installation
 Learn about python installation from [here](https://github.com/DSCNEDUET-X-DSCUIT/Fast-Track-to-Data-Science-30-Days/tree/main/installation).
+[Handbook](https://colab.research.google.com/github/jakevdp/PythonDataScienceHandbook/blob/master/notebooks/Index.ipynb)
