@@ -1,6 +1,6 @@
 # Day 14
 
-#### Google Colab Notebooks
+#### Google Colab Notebook
 
 [Data Preparation](https://colab.research.google.com/github/dphi-official/Machine_Learning_Bootcamp/blob/master/Data_Preparation_101/Data_Preparation_101.ipynb#scrollTo=y2n05lzsi-eG)
 

@@ -6,7 +6,7 @@ We had covered topics from book given below
 
 [Handbook](https://colab.research.google.com/github/jakevdp/PythonDataScienceHandbook/blob/master/notebooks/Index.ipynb)
 
-#### Google Colab Notebooks
+#### Google Colab Notebook
 
 [Visualization with Seaborn](https://colab.research.google.com/github/jakevdp/PythonDataScienceHandbook/blob/master/notebooks/04.14-Visualization-With-Seaborn.ipynb)
 

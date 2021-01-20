@@ -8,7 +8,7 @@ We had covered topics from book given below
 
 #### Google Colab Notebooks
 
-[Introduction to Pandas](https://colab.research.google.com/github/jakevdp/PythonDataScienceHandbook/blob/master/notebooks/03.00-Introduction-to-Pandas.ipynb)
+[Introduction to Pandas](https://colab.research.google.com/github/jakevdp/PythonDataScienceHandbook/blob/master/notebooks/03.00-Introduction-to-Pandas.ipynb) | 
 [Introducing Pandas Objects](https://colab.research.google.com/github/jakevdp/PythonDataScienceHandbook/blob/master/notebooks/03.01-Introducing-Pandas-Objects.ipynb)
 
 # Lecture Video
