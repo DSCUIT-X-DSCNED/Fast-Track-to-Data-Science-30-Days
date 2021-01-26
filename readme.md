@@ -25,14 +25,25 @@ Learn about python installation from [here](https://github.com/DSCNEDUET-X-DSCUI
 #### Books
 
 1: 100 pages Ml book by Andriy Burkov
+
 2: Aurélien Géron - Hands-On Machine Learning with Scikit-Learn, Keras, and TensorFlow_ Concepts, Tools, and Techniques to Build Intelligent Systems-O’Reilly Media (2019)
+
 3: Andreas C. Müller, Sarah Guido - Introduction to Machine Learning with Python_ A Guide for Data Scientists-O’Reilly Media (2016)
+
 4: Data Science For Business by Foster
+
 5: Hands-on Deep Learning algorithms Sudharsan Ravichandiran (packt)
+
 6: Deep Learning by Ian GoodFellow
+
 7: Data Science from Scratch First Principles with Python 2nd Ed by Joel Grus (O'reilly)
+
 8: Machine Learning_ A Probabilistic Perspective [Murphy] MIT
+
 9: Pattern Recognition in ML by Bishop
+
 10: Elements of Statistical Learning by Hastie and other
+
 11: Introduction to Statistical Learning by Hastie and other
+
 12: Practical Statistics for Data Scientists_ 50+ Essential Concepts Using R and Python-O'Reilly Media (2020) BYPeter Bruce, Andrew Bruce, Peter Gedeck
