@@ -24,6 +24,9 @@ Learn about python installation from [here](https://github.com/DSCNEDUET-X-DSCUI
 [Handbook](https://colab.research.google.com/github/jakevdp/PythonDataScienceHandbook/blob/master/notebooks/Index.ipynb)
 
 ### Books
+<p align="center">
+<img src="books.jpg" width="474px" height="640px" alt="Books">
+</p>
 
 1: 100 pages Ml book by Andriy Burkov
 
