@@ -7,8 +7,9 @@ Join us on [Discord](https://discord.gg/XMdJtVJd).
 Join [DSC-NEDUET](https://dsc.community.dev/ned-university-of-engineering-and-technology-karachi/)
 
 ## Course Outline
+<p align="center">
 <img src="30-days-Data-Science-Workshop.jpg" width="512px" height="640px" alt="Course Outline">
-
+</p>
 
 
 #### All Slides are accessible in below link
@@ -22,7 +23,7 @@ Go to: [Slides](https://drive.google.com/drive/u/4/folders/1stgIAbsplLOZKIJ58eGW
 Learn about python installation from [here](https://github.com/DSCNEDUET-X-DSCUIT/Fast-Track-to-Data-Science-30-Days/tree/main/installation).
 [Handbook](https://colab.research.google.com/github/jakevdp/PythonDataScienceHandbook/blob/master/notebooks/Index.ipynb)
 
-#### Books
+### Books
 
 1: 100 pages Ml book by Andriy Burkov
 
