@@ -7,7 +7,7 @@ Join us on [Discord](https://discord.gg/XMdJtVJd).
 Join [DSC-NEDUET](https://dsc.community.dev/ned-university-of-engineering-and-technology-karachi/)
 
 ## Course Outline
-![Course Outline](30-days-Data-Science-Workshop.jpg)
+![Course Outline](30-days-Data-Science-Workshop.jpg =512x640)
 
 #### All Slides are accessible in below link
 
