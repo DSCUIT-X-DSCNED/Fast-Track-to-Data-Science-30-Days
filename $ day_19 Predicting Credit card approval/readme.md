@@ -2,7 +2,7 @@
 
 ## You can visit the following links to keep up with the day 19th code:
 
-1. [Link 1](https://colab.research.google.com/drive/1d50oywEqbXn11CrKKfQyQ3KXrMOwmPGl#scrollTo=PkNNcJYDa4D-)
+1. [Credit card applications](https://colab.research.google.com/drive/1d50oywEqbXn11CrKKfQyQ3KXrMOwmPGl?usp=sharing)
 
 2. [Analysis of Credit Approval Data](http://rstudio-pubs-static.s3.amazonaws.com/73039_9946de135c0a49daa7a0a9eda4a67a72.html)
 
