@@ -12,4 +12,4 @@
 
 ## Lecture Video
 
-Go to [lecture](https://www.youtube.com/watch?v=WLOGzCfbHss&ab_channel=DSCNEDxDSCUIT-poweredbyGoogleDevelopers)
+Go to [lecture](https://www.youtube.com/watch?v=MtlcuuhZ0D4&ab_channel=DSCNEDxDSCUIT-poweredbyGoogleDevelopers)
