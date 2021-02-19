@@ -1,6 +1,6 @@
 # Day 24
 
-## You can visit the following links to keep with day 20th code:
+## You can visit the following links to keep with day 24th code:
 
 1. [Bayesian information criterion](https://en.wikipedia.org/wiki/Bayesian_information_criterion)
 

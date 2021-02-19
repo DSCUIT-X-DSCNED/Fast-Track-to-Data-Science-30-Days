@@ -9,7 +9,7 @@ DS Usman Community: https://dsc.community.dev/usman-institute-of-technology/</b>
 Whatsapp Group (Unofficial | Admin: Sir Asadullah): https://chat.whatsapp.com/Ja4vfRgEKin7v7KHP2o9e7<br>
 
 <h3>Instructors Links</h3>
-<b>Sir Umair FB: https://www.facebook.com/mumairbayg <br>
+<b>Sir Umair FB: https://www.facebook.com/MuhammadUmairBayg <br>
 Sir Umair YouTube Channel: https://www.youtube.com/channel/UCm7UeRf_W6TztRQHUUIM9jQ/featured</b><br>
 Sir Raheel FB: https://www.facebook.com/raheel.ali.sid/<br>
 Sir Asadullah FB: https://www.facebook.com/Muhammad.Asadullah123<br>
@@ -19,7 +19,6 @@ Sir Asadullah FB: https://www.facebook.com/Muhammad.Asadullah123<br>
 OpenIntro Statistics Book: (4th ed): https://bit.ly/2Jw21oA</b><br>
 OpenIntro Slides: https://www.openintro.org/book/os/<br>
 Think Stats Book: https://bit.ly/2WRv0Gw<br>
-
 
 <h3>Resources/Materials/Useful sites</h3>
 <b>GitHub: https://github.com/DSCNEDUET-X-DSCUIT/Fast-Track-to-Data-Science-30-Days</b><br>
@@ -45,4 +44,3 @@ Health Data Gov: https://healthdata.gov/search/type/dataset<br>
 https://www.weforum.org/reports/the-future-of-jobs-report-2020<br>
 <b>Mapping TradeTech: Trade in the Fourth Industrial Revolution:</b><br>
 https://www.weforum.org/reports/mapping-tradetech-trade-in-the-fourth-industrial-revolution
-

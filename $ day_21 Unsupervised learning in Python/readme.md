@@ -1,6 +1,6 @@
 # Day 21
 
-## You can visit the following links to keep with day 20th code:
+## You can visit the following links to keep with day 21th code:
 
 1. [K-Means Clustering in Python with scikit-learn](https://www.datacamp.com/community/tutorials/k-means-clustering-python)
 

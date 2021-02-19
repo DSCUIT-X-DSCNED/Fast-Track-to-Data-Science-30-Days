@@ -1,6 +1,6 @@
 # Day 25
 
-## You can visit the following links to keep with day 20th code:
+## You can visit the following links to keep with day 25th code:
 
 1. [Clustering](https://scikit-learn.org/stable/modules/clustering.html#)
 
